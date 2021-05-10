@@ -1,2 +1,4 @@
 # blog
-서동주 블로그
+
+# 관련링크
+- [블로그주소](https://ddj-seo.github.io/blog)
